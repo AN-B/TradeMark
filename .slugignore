@@ -1,0 +1,8 @@
+/static/app/*
+/static/app
+/static/templates/i18n/readme.txt
+deployStatus.txt
+changedFiles.txt
+errorCapture-*
+/hgnode/api/test/*
+/hgnode/api/test
